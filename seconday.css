@@ -1,0 +1,73 @@
+/*.sort
+{
+    block-size: 40px;
+    margin-left: 165px;
+    margin-bottom: 10px;
+}
+.proto
+{
+    block-size: 40px;
+    margin-left: 165px;
+    margin-bottom: 10px;
+}
+.first
+{
+    block-size: 40px;
+    margin-left: 165px;
+    margin-bottom: 10px;
+}
+.boxes1
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 55%;
+    margin-left: 270px;
+   
+   
+    
+}
+#sorting
+{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 33%;
+margin-right: 70px;
+
+
+
+
+}
+#prototype
+{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 35%;
+margin-right: 70px;
+
+}
+#firstclick
+{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 33%;
+margin-right: 70px;
+}
+.text1
+{
+    margin-left: 70px;
+}
+.text2
+{
+    margin-left: 70px;
+}.text3
+{
+    margin-left: 70px;
+}
+*/
